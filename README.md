@@ -6,9 +6,8 @@ In this project, we'll practice using Bootstrap.
 
 ## Setup
 
-1. Click the "Clone or download" button.
-1. Select "Download ZIP".
-1. Extract and open the entire folder in Atom.
+1. Follow the [Getting Started with GitHub Guide](https://guides.firstdraft.com/getting-started-with-github.html) to download this code to your computer.
+1. Open the entire folder in Atom (on Windows, File > Open Folder; on Mac, it's just File > Open, but click Open while you have a folder selected rather than drilling in).
 1. Open `landing.html` in Chrome.
 
 ## Suggested Steps
